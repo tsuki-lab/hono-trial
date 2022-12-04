@@ -1,0 +1,9 @@
+name = "hono-trial"
+main = "src/index.tsx"
+compatibility_date = "2022-12-03"
+
+[[ d1_databases ]]
+binding = "DB"
+database_name =  "hono-trial"
+database_id = "79402b24-e1f2-49dc-8780-19d02adbd08c"
+preview_database_id = "79402b24-e1f2-49dc-8780-19d02adbd08c"
